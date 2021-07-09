@@ -8,4 +8,4 @@
 
 ### 2021.07.10
 - Algorithm
-  - [2908번](../Algorithm/baekjoon/2908번.py)
+  - [2908번](../../Algorithm/baekjoon/2908번.py)
