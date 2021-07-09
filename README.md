@@ -1,2 +1,5 @@
-# TIL
-Today I Learned
+# TIL : Today I Learned
+
+> 오늘 공부한 것을 기록하자
+> 간단한 것이라도 좋으니 꾸준하자
+> 공부한 것은 간단한 제목과 함께 링크를 걸어 놓자
