@@ -4,6 +4,15 @@
 > 간단한 것이라도 좋으니 꾸준하자<br>
 > 공부한 것은 간단한 제목과 함께 링크를 걸어 놓자<br>
 
+### 2021.07.15
+- Python
+  - [Python 문법 정리 - replace](https://github.com/hioos11/Algorithm)
+
+
+### 2021.07.14
+- Python
+  - [Python 문법 정리 - zip](https://github.com/hioos11/Algorithm)
+
 ### 2021.07.13
 - Algorithm
   - [위장](https://github.com/hioos11/Algorithm/blob/main/programmers/%EC%9C%84%EC%9E%A5.py)
