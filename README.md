@@ -4,7 +4,7 @@
 > 간단한 것이라도 좋으니 꾸준하자<br>
 > 공부한 것은 간단한 제목과 함께 링크를 걸어 놓자<br>
 
-### 2021.07.15
+### 2021.07.16
 - Algorithm
   - [모의고사](https://github.com/hioos11/Algorithm/blob/main/programmers/모의고사.py)
 
