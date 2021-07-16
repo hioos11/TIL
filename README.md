@@ -6,7 +6,7 @@
 
 ### 2021.07.15
 - Algorithm
-  - [모의고사](../programmers/모의고사.py)
+  - [모의고사](./programmers/모의고사.py)
 
 
 ### 2021.07.15
