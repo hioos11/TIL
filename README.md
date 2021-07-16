@@ -4,6 +4,14 @@
 > 간단한 것이라도 좋으니 꾸준하자<br>
 > 공부한 것은 간단한 제목과 함께 링크를 걸어 놓자<br>
 
+### 2021.07.17
+- Algorithm
+  - [소수 찾기](https://github.com/hioos11/Algorithm/blob/main/programmers/소수 찾기.py)
+  - [카펫](https://github.com/hioos11/Algorithm/blob/main/programmers/카펫.py)
+- Python
+  - [체육복](https://github.com/hioos11/Algorithm/blob/main/programmers/체육복.py)
+  - [Python 문법 정리 - 순열과 조합](https://github.com/hioos11/Algorithm)
+
 ### 2021.07.16
 - Algorithm
   - [모의고사](https://github.com/hioos11/Algorithm/blob/main/programmers/모의고사.py)
