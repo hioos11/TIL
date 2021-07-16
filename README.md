@@ -5,6 +5,11 @@
 > 공부한 것은 간단한 제목과 함께 링크를 걸어 놓자<br>
 
 ### 2021.07.15
+- Algorithm
+  - [모의고사](../Algorithm/programmers/모의고사.py)
+
+
+### 2021.07.15
 - Python
   - [Python 문법 정리 - replace](https://github.com/hioos11/Algorithm)
 
