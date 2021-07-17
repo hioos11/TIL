@@ -4,6 +4,12 @@
 > 간단한 것이라도 좋으니 꾸준하자<br>
 > 공부한 것은 간단한 제목과 함께 링크를 걸어 놓자<br>
 
+### 2021.07.18
+- Algorithm
+  - [조이스틱](https://github.com/hioos11/Algorithm/blob/main/programmers/조이스틱.py)
+  - [타겟 넘버](https://github.com/hioos11/Algorithm/blob/main/programmers/타겟 넘버.py)
+  - [네트워크](https://github.com/hioos11/Algorithm/blob/main/programmers/네트워크.py)
+
 ### 2021.07.17
 - Algorithm
   - [소수 찾기](https://github.com/hioos11/Algorithm/blob/main/programmers/소수 찾기.py)
