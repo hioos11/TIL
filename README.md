@@ -4,6 +4,11 @@
 > 간단한 것이라도 좋으니 꾸준하자<br>
 > 공부한 것은 간단한 제목과 함께 링크를 걸어 놓자<br>
 
+### 2021.07.21
+- Python
+  - [파이썬을 파이썬답게](https://github.com/hioos11/Algorithm/tree/main/파이썬을 파이썬답게)
+
+
 ### 2021.07.19
 - Python
   - [Python 문법 정리 - sort, swap ..](https://github.com/hioos11/Algorithm)
