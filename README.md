@@ -6,12 +6,11 @@
 
 ### 2021.07.22
 - Python
-  [
-
+  [[파이썬을 파이썬답게 - 4, 5](https://github.com/hioos11/Algorithm/tree/main/파이썬을_파이썬답게)
 
 ### 2021.07.21
 - Python
-  - [파이썬을 파이썬답게](https://github.com/hioos11/Algorithm/tree/main/파이썬을_파이썬답게)
+  - [파이썬을 파이썬답게 - 1, 2, 3](https://github.com/hioos11/Algorithm/tree/main/파이썬을_파이썬답게)
 
 ### 2021.07.19
 - Python
@@ -57,7 +56,6 @@
   - [K번째 수](https://github.com/hioos11/Algorithm/blob/main/programmers/K%EB%B2%88%EC%A7%B8%EC%88%98.py)
   - [가장 큰 수](https://github.com/hioos11/Algorithm/blob/main/programmers/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py)
   - [H-Index](https://github.com/hioos11/Algorithm/blob/main/programmers/H-Index.py)
-  - 
 
 ### 2021.07.12
 - Algorithm
